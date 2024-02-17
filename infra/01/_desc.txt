@@ -1,0 +1,13 @@
+https://github.com/microsoft/RoadDetections
+https://blogs.bing.com/maps/2022-12/Bing-Maps-is-bringing-new-roads/
+
+Revisión de caminos detectados automáticamente (conjunto datos "Microsoft road detections")
+
+conjunto de datos original: Sudamérica
+
+https://colab.research.google.com/drive/10Z9kiqj_SCjMFOMa3tIiddbPEdiCmzLL?usp=sharing
+: recortado a Bolivia (usando libreta Py google colab)
+
+alternativa (no probada)
+https://github.com/anisotropi4/robin
+

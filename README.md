@@ -35,6 +35,9 @@ torrescel |  ![Distribución de torres de telefonía celular](torrescel/README.m
 
 [Mapa minimalista de ciudad generado a partir de OSM](urbano/01/rcityviews.R)  [(png1)](urbano/01/salida/cotoca.png) [(png2)](urbano/01/salida/montero.png) [(png3)](urbano/01/salida/samaipata.png)
 
+**Infraestructura**
+
+[Red caminera (caminos detectados automáticamente)](infra/01/_desc.txt)  [(png)](infra/01/BOL%20caminos%20MS%202022dic.png)
 
 **Bio/Agro**
 
