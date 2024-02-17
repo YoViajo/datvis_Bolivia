@@ -1,0 +1,6 @@
+https://www.unigis.es/cartograma-r/
+¿Cómo diseñar un cartograma con R?
+
+Cartograma: Población de Bolivia por departamentos (2012)
+
+

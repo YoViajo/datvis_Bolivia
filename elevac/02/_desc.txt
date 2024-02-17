@@ -1,0 +1,4 @@
+Representación de topografía (relieve sombreado + elevación) de Bolivia
+
+Prueba con paleta tricolor (rojo-amarillo-verde) para 2 versiones de relieve sombreado (exageración vertical: z=1, z=30). Animación GIF
+

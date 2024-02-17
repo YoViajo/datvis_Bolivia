@@ -1,0 +1,7 @@
+
+// Combinar diferentes imágenes que componen Bolivia
+python gdal_merge.py -co COMPRESS=LZW -o mosaico.tif *.tif
+
+python gdal_merge.py -pct -ot Byte -of GTiff -o mosaico.tif rec_Change_00N_070W.tif rec_Change_10S_060W.tif rec_Change_10S_070W.tif rec_Change_20S_060W.tif rec_Change_20S_070W.tif
+
+
