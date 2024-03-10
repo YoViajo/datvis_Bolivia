@@ -4,7 +4,7 @@ library(treemap)
 library(tidyverse)
 
 # Indicamos la ruta completa del archivo
-datos <- read.csv("/home/yoviajo/Descargas/bol_pib_dpto2022.csv")
+datos <- read.csv("bol_pib_dpto2022.csv")
 
 # Verificamos la estructura del dataframe
 str(datos)
@@ -17,7 +17,7 @@ dpto <- datos$dpto
 pib2022 <- datos$pib2022
 
 # Abrimos un dispositivo gráfico PNG
-png("/home/yoviajo/Descargas/bolivia_treemap_pib2022_x_dpto.png", width = 800, height = 600)
+png("bolivia_treemap_pib2022_x_dpto.png", width = 800, height = 600)
 
 # Creamos el treemap
 treemap(
