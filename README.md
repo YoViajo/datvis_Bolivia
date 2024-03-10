@@ -25,6 +25,8 @@ torrescel |  ![Distribución de torres de telefonía celular](torrescel/README.m
 
 [Cartograma: población de dptos](socio/02/Bol_cartogramas.R)  [(png1)](socio/02/3%20Población%20x%20dptos%20tmap.png) [(png2)](socio/02/4%20Población%20x%20dptos%20ggplot2.png) [(png3)](socio/02/5%20Población%20x%20dptos%20ggplot2%20dorling.png)
 
+[PIB nominal por departamento (2022)](socio/03/treemap_ejemplo.R)  [(png)](socio/03/bolivia_treemap_pib2022_x_dpto.png)
+
 **Urbano**
 
 [Representación de construcciones urbanas en la ciudad (municipio) de Santa Cruz](urbano/03/)
