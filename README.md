@@ -31,7 +31,7 @@ torrescel |  ![Distribución de torres de telefonía celular](torrescel/README.m
 
 [Representación de construcciones urbanas en la ciudad (municipio) de Santa Cruz](urbano/03/)
 
-[GLAD expansión urbana 2000-2020](urbano/02/)
+[GLAD expansión urbana 2000-2020](urbano/02/) [(Santa Cruz)](urbano/02/Scz%20y%20alrededores%20-%20expansión%20urbana%202000-2020.png) [(La Paz)](urbano/02/Lpz%20y%20alrededores%20-%20expansión%20urbana%202000-2020.png) [(Cochabamba)](urbano/02/Cbb%20y%20alrededores%20-%20expansión%20urbana%202000-2020.png)
 
 [prettymaps, mapas de ciudad usando OpenStreetMap](urbano/prettymaps/README.md)
 
